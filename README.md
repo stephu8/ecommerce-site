@@ -1,4 +1,4 @@
-# ecommerceSiteProj
+# E-commerce Site Project
 Simple E-commerce Website with email receipt functionality after checking out
 
 Project was originally deployed on 000webhost.
