@@ -1,5 +1,5 @@
 # E-commerce Site Project
-## Simple E-commerce Website with email receipt functionality after checking out
+Simple E-commerce Website with email receipt functionality after checking out
 
 ### How To Run Files Locally
 The website is written in PHP, so in order to run locally, you must download XAMPP.
